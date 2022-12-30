@@ -4,16 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ParagKale09&label=Profile%20views&color=0e75b6&style=flat" alt="ParagKale09" /> </p>
 
 <p align="center">
-  <a href="https://github.com/ParagKale09/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Instrumentation+and+Control+BE+Strudent;DSA;Competitive+Programmer"></a>
+  <a href="https://github.com/ParagKale09/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Instrumentation+and+Control+BE+Student;DSA;Competitive+Programmer"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
 • 👨‍🎓I am Parag, currently working as a **Web Developer Intern** at **Oasis Infobyte**.<br />
-💻Proficient in a wide range of programming languages and technologies, including **C++, Python,Front End Languages.<br />
+💻Proficient in a wide range of programming languages and technologies, including **C++, Python,Front End Languages**.<br />
 • 🏹Looking Forward to learn in deep - Javascript,ReactJS,and Back end web development.<br />
-🥇Perfoming well in  **competitive programming**, with best of 45th rank in hackerthon organised by scalar (3⭐️@Hankerank)<br />
+🥇Perfoming well in  **competitive programming**, with best of <a href="https://moonshot.scaler.com/s/sl/ybWvstLsha">45th rank </a> in hackerthon organised by scalar (3⭐️@Hankerank)<br />
 • 🤩Ex Team Member of ** of the <a href="https://www.draicdypcoe.in/">DRAIC | Robotics and AI Club</a>, The Club focuses on the development of students through working on various robotic projects and also participating in National as well as International level Competitions.<br />
-• 🙌Demonstrated ability to **work effectively in 🫂team environments**, with strong problem-solving and communication skills.<br />
+• 🙌Demonstrated ability to **work effectively in team environments**, with strong problem-solving and communication skills.<br />
 
 ## Connect with me
 <p align="left"> 

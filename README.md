@@ -1,5 +1,6 @@
 <!-- [![GitHub Follow](https://img.shields.io/github/followers/ParagKale09?style=social&logo=github)](https://github.com/ParagKale09) -->
-# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[ParagKale09](https://github.com/ParagKale09) <img src="./img/wave.gif" width="30px" height="30px" />
+
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[ParagKale09](https://github.com/ParagKale09) <img src="https://github.com/Spyware007/Spyware007/blob/main/img/wave.gif" width="30px" height="30px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ParagKale09&label=Profile%20views&color=0e75b6&style=flat" alt="ParagKale09" /> </p>
 
@@ -23,7 +24,7 @@
   </tr>
 </table>
 
-## Connect with me
+## Connect with me  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px" />
 <p align="left"> 
 <a href="https://twitter.com/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xyz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parag-kale-79294021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parag kale" height="30" width="40" /></a>

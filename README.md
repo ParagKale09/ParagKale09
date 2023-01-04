@@ -11,7 +11,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
 • 👨‍🎓I am Parag, currently working as a **Web Developer Intern** at **Oasis Infobyte**.<br />
 • 💻Proficient in a wide range of programming languages and technologies, including **C++, Python,HTML,CSS**.<br />
-• 🏹Looking Forward to learn in deep - Javascript, ReactJS and Back end web development.<br />
+• 🏹Looking Forward to learn - Javascript, ReactJS and Back end web development.<br />
 • 🥇Perfoming well in  **competitive programming**, with best of <a href="https://moonshot.scaler.com/s/sl/ybWvstLsha">45th rank </a> in hackerthon organised by scalar (3⭐️@Hankerank).<br />
 • ⚙Ex Team Member of the <a href="https://www.draicdypcoe.in/">DRAIC | Robotics and AI Club</a>, The Club focuses on the development of students through working on various robotic, software projects and also participating in National as well as International level Competitions.<br />
 • 🙌Demonstrated ability to **work effectively in team environments**, with strong problem-solving and communication skills.<br />

@@ -9,7 +9,7 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
-• 👨‍🎓I am Parag, currently working as a **Python Intern** at **Oasis Infobyte**.<br />
+• 👨‍🎓I am Parag, currently working as a **Web devloper intern** at **Oasis Infobyte**.<br />
 • 💻Proficient in a wide range of programming languages and technologies, including **C++, Python, HTML, CSS**.<br />
 • 🏹Looking Forward to learn - Javascript, ReactJS and Back end web development.<br />
 • 🥇Perfoming well in  **competitive programming**, with best of <a href="https://moonshot.scaler.com/s/sl/ybWvstLsha">45th rank </a> in hackerthon organised by scalar (3⭐️@Hankerank).<br />

@@ -25,13 +25,23 @@
 </table>
 
 ## Connect with me  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px" />
-<p align="left"> 
-<a href="https://twitter.com/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xyz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parag-kale-79294021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parag kale" height="30" width="40" /></a>
-<a href="https://instagram.com/paragkale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paragkale" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/paragkale04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="paragkale04" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/paragkale04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paragkale04" height="30" width="40" /></a>
-</p>
+<div align="center">
+ <a href="https://www.linkedin.com/in/parag-kale-79294021a/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=paragkale09 linkedin style="margin-bottom: 5px;" />
+</a>
+ <a href="https://github.com/paragkale09" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=paragkale09 GitHub style="margin-bottom: 5px;" />
+</a>
+ <a href="https://twitter.com/ParagKale09" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=paragkale09 twitter style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:paragkale04@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=paragkale04@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/paragkale__/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=ParagKale09 Instagram style="margin-bottom: 5px;" />
+</a>
+</div>
 
 
 ## Languages and Tools <img src="https://github.com/Spyware007/Spyware007/blob/main/img/database.gif" height="32px" />

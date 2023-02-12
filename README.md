@@ -59,6 +59,6 @@
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/linux-%230072C6.svg?style=for-the-badge&logo=linux&logoColor=yellow"/>
+<img alt="Linux" src="https://img.shields.io/badge/linux-%230072C6.svg?style=for-the-badge&logo=linux&logoColor=white"/>
 <img alt="Ifttt" src="https://img.shields.io/badge/ifttt-%230072C6.svg?style=for-the-badge&logo=ifttt&logoColor=white"/> 
 </p>

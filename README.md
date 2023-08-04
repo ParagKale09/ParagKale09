@@ -9,9 +9,9 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
-• 👨‍🎓I am Parag, currently working as a **Web devloper intern** at **Byteplexure**.<br />
-• 💻Proficient in a wide range of programming languages and technologies, including **C++, Python, PHP, HTML, CSS**.<br />
-• 🏹Looking Forward to learn - Laravel, Javascript and Back end web development.<br />
+• 👨‍🎓I am Parag, currently in BE Instrumentation and Control and I was the **Web developer intern** at **Byteplexure**.<br />
+• 💻Proficient in a wide range of programming languages and technologies, including **C++, Python, PHP, HTML, CSS, and Javascript**.<br />
+• 🏹Looking Forward to learning - TailwindCSS, and  new technologies in Back end web development.<br />
 • 🥇Perfoming well in  **competitive programming**, with best of <a href="https://moonshot.scaler.com/s/sl/ybWvstLsha">45th rank </a> in hackerthon organised by scalar (3⭐️@Hankerank).<br />
 • ⚙Ex Team Member of the <a href="https://www.draicdypcoe.in/">DRAIC | Robotics and AI Club</a>, The Club focuses on the development of students through working on various robotic, software projects and also participating in National as well as International level Competitions.<br />
 • 🙌Demonstrated ability to **work effectively in team environments**, with strong problem-solving and communication skills.<br />
@@ -50,6 +50,7 @@
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="BootStrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/javascript-%23563D7C.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23323330.svg?style=for-the-badge&logo=laravel&logoColor=%23F7DF1E"/>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>

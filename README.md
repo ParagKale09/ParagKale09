@@ -14,7 +14,7 @@
 • 🏹Looking Forward to learning - TailwindCSS, and  new technologies in Back end web development.<br />
 • 🥇Perfoming well in  **competitive programming**, with best of <a href="https://moonshot.scaler.com/s/sl/ybWvstLsha">45th rank </a> in hackerthon organised by scalar (3⭐️@Hankerank).<br />
 • ⚙Ex Team Member of the <a href="https://www.draicdypcoe.in/">DRAIC | Robotics and AI Club</a>, The Club focuses on the development of students through working on various robotic, software projects and also participating in National as well as International level Competitions.<br />
-• 🙌Demonstrated ability to **work effectively in team environments**, with strong problem-solving and communication skills.<br />
+• 🙌Demonstrated ability to **work effectively in team environments**, with strong problem-solving and communication skills<br />
 
 <br/>
 <table>

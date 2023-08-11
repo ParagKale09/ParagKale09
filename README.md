@@ -63,3 +63,14 @@
 <img alt="Linux" src="https://img.shields.io/badge/linux-%230072C6.svg?style=for-the-badge&logo=linux&logoColor=white"/>
 <img alt="Ifttt" src="https://img.shields.io/badge/ifttt-%230072C6.svg?style=for-the-badge&logo=ifttt&logoColor=white"/> 
 </p>
+
+---
+
+```javascript
+if (isAwesome) {
+  // thanks in advance :p
+  starThisRepository();
+}
+```
+
+---
